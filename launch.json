@@ -6,9 +6,10 @@
       "type": "python",
       "request": "launch",
       "program": "${workspaceFolder}/graficas_csv_robusto.py",
-      "args": ["COM6"],               // <-- cambia esto a tu puerto
+      "args": ["COM6"],               // Aquí se pone el puerto común que se utilice
       "console": "integratedTerminal",
       "justMyCode": true
     }
   ]
 }
+
