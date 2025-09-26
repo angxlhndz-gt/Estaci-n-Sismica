@@ -26,6 +26,7 @@ Instalar dependencias Python:
 ```bash
 pip install -r requirements.txt
 ```
+
 ##🚀 Funcionalidades principales
 
 ###📈 Gráficas en tiempo real:
