@@ -92,4 +92,5 @@ Permite crear dashboards con tendencias, comparaciones por evento y alarmas.
 ## 👤 Autor
 
 Angel Moreno - 202425514
+Luis de Leon - 202425511
 Proyecto académico y de demostración — Universidad Mesoamericana.
