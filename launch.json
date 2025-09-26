@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Graficar estación sísmica",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/graficas_csv_robusto.py",
+      "args": ["COM6"],               // <-- cambia esto a tu puerto
+      "console": "integratedTerminal",
+      "justMyCode": true
+    }
+  ]
+}
