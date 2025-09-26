@@ -27,9 +27,10 @@ Instalar dependencias Python:
 pip install -r requirements.txt
 ```
 
-##🚀 Funcionalidades principales
+# 🚀 Funcionalidades Principales
 
-###📈 Gráficas en tiempo real:
+## 📈 Gráficas en tiempo real:
+
 
 Movimiento por ejes (X/Y/Z con filtro pasa-altas)
 
@@ -37,7 +38,7 @@ Intensidad (|a|-1 g) y estado de alarma
 
 Escala MMI (Mercalli Modificada) estimada a partir de PGA
 
-###🖥️ Interfaz interactiva (VS Code + matplotlib) con botones:
+## 🖥️ Interfaz interactiva (VS Code + matplotlib) con botones:
 
 X/Y/Z
 
@@ -55,7 +56,7 @@ Configuración (umbral MMI y sirena ON/OFF, botón Silencio)
 
 Salir
 
-###🔔 Sirena sísmica real (sirena.mp3):
+## 🔔 Sirena sísmica real (sirena.mp3):
 
 Se activa automáticamente cuando el MMI ≥ umbral (por defecto 9.0).
 
@@ -63,13 +64,13 @@ Suena en bucle por al menos 5 segundos.
 
 Puede apagarse con el botón Silencio.
 
-###📊 Exportación CSV automática y manual:
+## 📊 Exportación CSV automática y manual:
 
 Registro continuo de todos los datos.
 
 Exportación de subconjuntos para análisis en Power BI.
 
-###▶️ Ejecución
+## ▶️ Ejecución
 
 Subir el código de Arduino (Estacion_Sismica_Proyecto_Fisica.ino).
 
@@ -77,18 +78,18 @@ Conectar el Arduino y verificar el puerto (ej: COM6).
 
 Abrir VS Code y ejecutar con F5 (graficas_csv_menu.py).
 
-###📊 Integración con Power BI
+## 📊 Integración con Power BI
 
 Los archivos .csv generados pueden importarse directamente en Power BI.
 
 Permite crear dashboards con tendencias, comparaciones por evento y alarmas.
 
-##📷 Demo
+## 📷 Demo
 
 ![Imagen de WhatsApp 2025-09-26 a las 08 13 43_c2348ea0](https://github.com/user-attachments/assets/f83d815c-19f8-4b97-805e-6fd5e9f874b2)
 
 
-##👤 Autor
+## 👤 Autor
 
 Angel Moreno - 202425514
 Proyecto académico y de demostración — Universidad Mesoamericana.
